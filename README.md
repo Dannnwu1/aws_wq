@@ -1,9 +1,9 @@
-# aws_wq
-World Quant Brain Alpha Simulation on AWS EC2
-Description
-This project demonstrates how to deploy a Python-based simulation environment for the World Quant Brain Alpha framework on AWS EC2. The setup includes configuring a Jupyter Notebook server for remote analysis and ensuring secure, scalable cloud resource management.
+aws_wq
+# World Quant Brain Alpha Simulation on AWS EC2
+## Description
+### This project demonstrates how to deploy a Python-based simulation environment for the World Quant Brain Alpha framework on AWS EC2. The setup includes configuring a Jupyter Notebook server for remote analysis and ensuring secure, scalable cloud resource management.
 
-Prerequisites
+## Prerequisites
 An AWS account with IAM permissions to create users, EC2 instances, and security groups.
 Basic knowledge of Linux, SSH, and AWS CLI.
 Setup Steps
